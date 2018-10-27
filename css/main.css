@@ -1256,10 +1256,10 @@ ul.portfolioContainer li:hover span.hoverBox .linKed{
 	text-align:center;
 	background:#bebabe;
 	color:#ffffff;
-	line-height:550px;
-	margin:0 170px 140px;
-	width:550px !important;
-	height:250px !important;
+	line-height:55px;
+	margin:0 170px 14px;
+	width:55px !important;
+	height:25px !important;
 	
 	-webkit-border-radius: 50%;
     border-radius: 50%;
@@ -1277,7 +1277,7 @@ ul.portfolioContainer li:hover span.hoverBox .linKed{
 	height:42px !important;
 }
 .footer ul li a i{
-	line-height:55px !important;
+	line-height:550px !important;
 	color:#fff;
 }
 
