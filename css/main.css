@@ -658,7 +658,7 @@ header{
 		margin-top: 20px;
 	}
 	section {
-		padding: 120px 0;
+		padding: 12px 0;
 	}
 	header .intro-text {
 		padding-top: 300px;
@@ -1242,7 +1242,7 @@ ul.portfolioContainer li:hover span.hoverBox .linKed{
 	background:#f8f8f8;
 }
 .footer .container{
-	padding: 24px 0 0;
+	padding: 14px 0 0;
 }
 
 .footer ul{
