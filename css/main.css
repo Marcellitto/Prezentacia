@@ -1242,12 +1242,12 @@ ul.portfolioContainer li:hover span.hoverBox .linKed{
 	background:#f8f8f8;
 }
 .footer .container{
-	padding: 14px 0 0;
+	padding: 10px 0 0;
 }
 
 .footer ul{
 	margin:0 auto;
-	margin-bottom:62px;
+	margin-bottom:20px;
 	text-align:center;
 	list-style-type:none;
 }
